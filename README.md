@@ -9,7 +9,7 @@
 
 - Computer Vision [Spot It Player](https://github.com/Shyam-723/SpotIt_Model)
 
-- All of my projects are available at [https://shyam723-portfolio.netlify.app/](https://shyam723-portfolio.netlify.app/)
+- All of my projects are available at [https://shyam723-portfolio.netlify.app/projects](https://shyam723-portfolio.netlify.app/projects)
 
 - How to reach me **shyam.gupta0723@gmail.com**
 
